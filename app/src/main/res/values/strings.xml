@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyProject</string>
+    <string-array name="symbols">
+        <item>UZS(Uzbekistan Som)</item>
+        <item>TJS(Tajikistani Somoni)</item>
+        <item>USD(United States Dollar)</item>
+        <item>EUR(Euro)</item>
+    </string-array>
+</resources>
